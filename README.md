@@ -12,7 +12,8 @@
 _Collaborate and work together on GitHub._
 
 </header>
-
+// replacement code goes here
+print("hello world")
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
